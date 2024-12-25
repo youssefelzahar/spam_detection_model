@@ -48,16 +48,8 @@ The dataset includes labeled messages as spam or non-spam, commonly sourced from
    ```bash
    cd spam_detection_model
    ```
-
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
-4. Run the Jupyter Notebook or Python script:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Usage
 
