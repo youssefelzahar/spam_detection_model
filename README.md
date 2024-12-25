@@ -86,10 +86,10 @@ The project implements and compares several models:
 
 - **Best Model:**
   The **Gradient Boosting Model** provided the best performance based on F1-Score, achieving:
-  - Accuracy: `xx.xx`
-  - Precision: `xx.xx`
-  - Recall: `xx.xx`
-  - F1-Score: `xx.xx`
+  - Accuracy: `0.99`
+  - Precision: `class 0-> 0.99 class 1-> 0.99`
+  - Recall: `class 0-> 0.99 class 1-> 0.93`
+  - F1-Score: `class 0-> 0.99 class 1-> 0.95`
 
 For detailed evaluation metrics and visualizations, refer to the `model.ipynb` notebook.
 
